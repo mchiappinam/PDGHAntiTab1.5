@@ -1,0 +1,6 @@
+name: PDGHAntiTab
+main: me.mchiappinam.pdghantitab.Main
+author: mchiappinam
+version: 1.0
+website: http://pdgh.net/
+depend: [ProtocolLib]
